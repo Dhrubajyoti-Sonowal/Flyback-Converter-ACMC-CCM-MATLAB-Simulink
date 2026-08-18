@@ -41,12 +41,12 @@ This repository contains the complete design, analysis, and simulation of a **Co
 ##  Simulation Results
 
 ### Output Voltage Regulation
-![Output Voltage Regulation].https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3a42af312740139c0ecc6981518b3e01e3fd9d3e/Closed-loop%20Output%20Voltage%20Reference%20tracking%20Response.png
+![Output Voltage Regulation].(https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3a42af312740139c0ecc6981518b3e01e3fd9d3e/Closed-loop%20Output%20Voltage%20Reference%20tracking%20Response.png)
 ### Inductor Current and PWN signal (Average Current Mode Control)
-![Inductor Current Tracking].https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3a42af312740139c0ecc6981518b3e01e3fd9d3e/Inductor%20Current%20and%20Control%20Signal.png
+![Inductor Current Tracking].(https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3a42af312740139c0ecc6981518b3e01e3fd9d3e/Inductor%20Current%20and%20Control%20Signal.png)
 
 ### Load Transient Response
-![Response to Load Changes].https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/05877f3e4bebe32d1a4c0020f6a4dd9ae9614b7a/Output%20Voltage%20Response%20to%20load%20changes.png
+![Response to Load Changes].(https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/05877f3e4bebe32d1a4c0020f6a4dd9ae9614b7a/Output%20Voltage%20Response%20to%20load%20changes.png)
 
 ---
 
