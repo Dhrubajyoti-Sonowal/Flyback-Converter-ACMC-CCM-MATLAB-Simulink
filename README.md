@@ -43,7 +43,7 @@ This repository contains the complete design, analysis, and simulation of a **Co
 ### Output Voltage Regulation
 https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3a42af312740139c0ecc6981518b3e01e3fd9d3e/Closed-loop%20Output%20Voltage%20Reference%20tracking%20Response.png
 ### Inductor Current (Average Current Mode Control)
-![Inductor Current](images/inductor_current.png)
+https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3a42af312740139c0ecc6981518b3e01e3fd9d3e/Inductor%20Current%20and%20Control%20Signal.png
 
 ### Load Transient Response
 ![Load Transient](images/load_transient.png)
