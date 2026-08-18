@@ -41,7 +41,7 @@ This repository contains the complete design, analysis, and simulation of a **Co
 ##  Simulation Results
 
 ### Output Voltage Regulation
-![Output Voltage](images/Closed-loop Output Reference Tracking.png)
+[![Output Voltage](images/Closed-loop Output Reference Tracking.png)](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/9698e06a50e1b08563c32f8480306f4c152cfc09/Closed-loop%20Output%20Voltage%20Reference%20tracking%20Response%202.png)
 
 ### Inductor Current (Average Current Mode Control)
 ![Inductor Current](images/inductor_current.png)
