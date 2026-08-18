@@ -48,13 +48,11 @@ This repository contains the complete design, analysis, and simulation of a **Co
 ### Load Transient Response
 ![Response to Load Changes].https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/05877f3e4bebe32d1a4c0020f6a4dd9ae9614b7a/Output%20Voltage%20Response%20to%20load%20changes.png
 
-
-
 ---
 
-## Block Diagram
+## Simulink Model
 
-![Control Block Diagram](images/block_diagram.png)
+![Simulink Model](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/1dfa19cb3162491a1a4afdcda4cf8f32d9a11960/Flyback%20Simulink%20model.png)
 
 ---
 
@@ -66,6 +64,4 @@ This repository contains the complete design, analysis, and simulation of a **Co
 4. Observe waveforms in scopes  
 5. Analyze frequency responses using `transfer_function_analysis.m`  
 
----
 
-##  Repository Structure
