@@ -41,7 +41,7 @@ This repository contains the complete design, analysis, and simulation of a **Co
 ##  Simulation Results
 
 ### Output Voltage Regulation
-![Output Voltage](images/output_voltage.png)
+![Output Voltage](images/Closed-loop Output Reference Tracking.png)
 
 ### Inductor Current (Average Current Mode Control)
 ![Inductor Current](images/inductor_current.png)
