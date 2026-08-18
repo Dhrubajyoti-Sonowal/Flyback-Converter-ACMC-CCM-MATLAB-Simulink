@@ -65,6 +65,6 @@ This repository contains the complete design, analysis, and simulation of a **Co
 3. [Inner Loop Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/8aff26ef04857efd3357827b8e16bbc6fa31e72a/IL_D.m) 
 4. [Outer Loop Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/36f6c9e8eccf617599ca343fe37791d7dbfcc90b/outer_loop.m)
  ## Project Report PDF
- [Report]
+ [Report](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/3b690ac1f3a650ee5732ac7884969bb334d42a32/Flyback_ACMC_Report_compressed.pdf)
 
 
