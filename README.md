@@ -56,7 +56,7 @@ This repository contains the complete design, analysis, and simulation of a **Co
 
 ---
 
-## How to Run
+## Below are the Simulation files
 
 1. Clone this repository  
 2. Open MATLAB/Simulink  
