@@ -58,10 +58,10 @@ This repository contains the complete design, analysis, and simulation of a **Co
 
 ## Below are the Simulation files
 
-1. Clone this repository  
-2. Open MATLAB/Simulink  
-3. Run `flyback_acmc_ccm.slx`  
-4. Observe waveforms in scopes  
-5. Analyze frequency responses using `transfer_function_analysis.m`  
+1. [Simulink slx file](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/91a9066abf76f20de98d08dbff251abf2855cb7f/Flyback.slx)  
+2. [Plant Transfer function and bodeplot code]   
+3. [Inner Loop Transfer function and bodeplot code]  
+4. [Outer Loop Transfer function and bodeplot code]  
+  
 
 
