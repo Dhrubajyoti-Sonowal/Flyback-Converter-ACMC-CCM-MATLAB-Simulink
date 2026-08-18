@@ -59,7 +59,7 @@ This repository contains the complete design, analysis, and simulation of a **Co
 ## Below are the Simulation files
 
 1. [Simulink slx file](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/91a9066abf76f20de98d08dbff251abf2855cb7f/Flyback.slx)  
-2. [Plant Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/db333d34079284a7121d6738b35f2d33b0c71f18/IL_D.m)   
+2. [Plant Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/69ef25432b2a5e6d8bd653b02f361339bf2a35b4/Tp_.m)  
 3. [Inner Loop Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/8aff26ef04857efd3357827b8e16bbc6fa31e72a/IL_D.m) 
 4. [Outer Loop Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/36f6c9e8eccf617599ca343fe37791d7dbfcc90b/outer_loop.m)
   
