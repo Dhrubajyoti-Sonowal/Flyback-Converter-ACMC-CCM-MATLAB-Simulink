@@ -23,8 +23,8 @@ This repository contains the complete design, analysis, and simulation of a **Co
 - Analyzed frequency-domain behavior of the converter  
 - Identified and addressed the **Right-Half-Plane (RHP) zero** limitation  
 - Designed **two-loop compensator architecture**:
-  1 Inner current loop: crossover = **20 kHz**, phase margin = **60°**
-  2 Outer voltage loop: crossover = **1.32 kHz**, phase margin = **55°**
+  -1 Inner current loop: crossover = **20 kHz**, phase margin = **60°**
+  -2 Outer voltage loop: crossover = **1.32 kHz**, phase margin = **55°**
 - Validated design through MATLAB/Simulink simulations  
 - Verified reference tracking, line regulation, and load transient performance  
 
