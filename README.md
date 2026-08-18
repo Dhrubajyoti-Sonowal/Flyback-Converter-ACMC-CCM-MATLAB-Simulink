@@ -8,8 +8,10 @@ This repository contains the complete design, analysis, and simulation of a **Co
 
 - **Converter Type:** Flyback DC–DC Converter  
 - **Operating Mode:** Continuous Conduction Mode (CCM)  
-- **Control Technique:** Average Current Mode Control (ACMC)  
-- **Switching Frequency:** 100 kHz (update if different)  
+- **Control Technique:** Average Current Mode Control (ACMC)
+- **Turns Ratio:** 3:1 
+- **Switching Frequency:** 100 kHz
+- **Supply:** 5 V to 12 V  
 - **Magnetizing Inductance:** Lm = 200 μH  
 - **Software:** MATLAB/Simulink  
 
@@ -62,6 +64,7 @@ This repository contains the complete design, analysis, and simulation of a **Co
 2. [Plant Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/69ef25432b2a5e6d8bd653b02f361339bf2a35b4/Tp_.m)  
 3. [Inner Loop Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/8aff26ef04857efd3357827b8e16bbc6fa31e72a/IL_D.m) 
 4. [Outer Loop Transfer function and bodeplot code](https://github.com/Dhrubajyoti-Sonowal/Flyback-Converter-ACMC-CCM-MATLAB-Simulink/blob/36f6c9e8eccf617599ca343fe37791d7dbfcc90b/outer_loop.m)
-  
+ ## Project Report PDF
+ [Report]
 
 
